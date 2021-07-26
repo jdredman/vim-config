@@ -8,7 +8,7 @@ Add the followint to your `~/.vimrc` (if you dont have this file you may have to
 set number
 set ruler
 
-" Auto indent by filetype [not sure if this is 100% working?]
+" Auto indent by filetype
 if has('filetype')
   filetype indent on
 endif
