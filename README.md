@@ -13,7 +13,7 @@ if has('filetype')
   filetype indent on
 endif
 
-" Keep same indent on return when theres now auto indent
+" Keep same indent on return when theres no auto indent
 set autoindent
 
 " Set color scheme 
