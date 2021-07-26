@@ -4,7 +4,7 @@ My current vim optimizations for 🎨 and better ⌨️ experience.
 Add the followint to your `~/.vimrc` (if you dont have this file you may have to create it) and customize to your preferences.
 
 ```vim
- " Show line and character numbers
+" Show line and character numbers
 set number
 set ruler
 
