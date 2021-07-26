@@ -1,6 +1,8 @@
 # vim-config
 My current vim optimizations for 🎨 and better ⌨️ experience.
 
+![alt Vim after applying optimizations](https://github.com/jdredman/vim-config/blob/main/vim-optimized.png?raw=true)
+
 Add the followint to your `~/.vimrc` (if you dont have this file you may have to create it) and customize to your preferences.
 
 ```vim
