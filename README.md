@@ -32,7 +32,7 @@ set shiftwidth=4
 set tabstop=4
 
 " Make comments gray
-:hi comment ctermfg=darkgray
+hi comment ctermfg=darkgray
 
 " Ask to save on exit
 set confirm
