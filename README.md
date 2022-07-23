@@ -22,7 +22,7 @@ set autoindent
 " Options -> default, blue, darkblue, delek, desert, elford, evening, 
 " industry, koehler, morning, murphy, pablo, peachpuff, ron, shine,
 " slate, torte, zellner
-colorscheme delek
+colorscheme slate
 
 " Enable syntax highlighting
 if has('syntax')
